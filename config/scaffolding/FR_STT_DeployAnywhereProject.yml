@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/staillanibm
   gitUsername: staillanibm
   gitBranch: main
+- name: sttHelloWorld
+  gitServerName: fr_stt_github
+  gitUrl: https://github.com/staillanibm
+  gitUsername: staillanibm
+  gitBranch: main
